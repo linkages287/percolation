@@ -1,0 +1,18 @@
+data una matrice N*N 
+
+la patrice viene riempita con degli spazi pieni black
+e degli spazi vuoti white
+
+gli spazi vuoti hanno una probabilita' p
+mentre gli spazi neri hanno una probabilita' 1-p
+
+vogliamo randomizzare la presenza degli spazi vuoti escludendoli dalla matrice
+in modo da determinare quale rapporto tra spazi pieni e vuoti determina la percolazione.
+
+1) inizalizzazione randomica con un p determinato (ex 0.2)
+
+2) controllo dei nodi e collocazione dei nodi negli insiemi di connessione
+
+3) creazione di nodi virtuali in ingresso ed uscita
+
+
