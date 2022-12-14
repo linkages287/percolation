@@ -4,7 +4,8 @@ la patrice viene riempita con degli spazi pieni black
 e degli spazi vuoti white
 
 gli spazi vuoti hanno una probabilita' p
-mentre gli spazi neri hanno una probabilita' 1-p
+mentre gli spazi pieni hanno una probabilita' 1-p
+
 
 vogliamo randomizzare la presenza degli spazi vuoti escludendoli dalla matrice
 in modo da determinare quale rapporto tra spazi pieni e vuoti determina la percolazione.
